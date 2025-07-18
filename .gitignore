@@ -54,3 +54,10 @@ TestResult.xml
 nunit-*.xml
 .vs/sttjaffrayjakartaacid/FileContentIndex/176a0dd2-8c5d-49b6-85d8-134d498ddeb2.vsidx
 .vs/sttjaffrayjakartaacid/FileContentIndex/306d6a5c-5b43-47e5-a54b-36517dfa9d97.vsidx
+*.v2
+/.vs/sttjaffrayjakartaacid/FileContentIndex/0d89a551-3420-4b6b-9ba0-859763141ec3.vsidx
+/.vs/sttjaffrayjakartaacid/FileContentIndex/7c5f8d59-e5fc-4e54-9f82-4247e8432ae8.vsidx
+*.vsidx
+*.suo
+/.vs/sttjaffrayjakartaacid/v17/DocumentLayout.json
+*.sln
